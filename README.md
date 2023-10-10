@@ -1,5 +1,6 @@
 # ipmon
 A Simple Multi IP Monitor
+Software per monitorare uno o più host di rete, sia privati che pubblici, nel caso un IP cambia stato avvissa con un alert. Il tutto racchiuso in una pratica iconcina nella sistray.
 
 ## Copme usare il software
 1. Scarica l'ultima verisone e compilalo. Trovi le istruzioni su [https://www.autoitscript.com/autoit3/docs/intro/compiler.htm](https://www.autoitscript.com/autoit3/docs/intro/compiler.htm)
