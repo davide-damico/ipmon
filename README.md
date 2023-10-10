@@ -6,3 +6,7 @@ A Simple Multi IP Monitor
 
 ## Download
 [Click here](https://github.com/davide-damico/releases/latest) to download the latest release!
+
+## Author
+
+Davide D'Amico - Pescara (https://www.novasoftonline.net)
