@@ -19,7 +19,7 @@ A Simple Multi IP Monitor
 ![ipmon](screenshot.jpg)
 
 ## Download
-[Click here](https://github.com/davide-damico/releases/latest) to download the latest release!
+[Click here](https://github.com/davide-damico/ipmon/releases/latest) to download the latest release!
 
 ## Author
 Davide D'Amico - Pescara (https://www.novasoftonline.net)
