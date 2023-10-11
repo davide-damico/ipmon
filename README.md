@@ -22,7 +22,7 @@ Software per monitorare uno o più host di rete, sia privati che pubblici, nel c
 ![ipmon](screenshot.jpg)
 
 ## Download
-[Clicca qui](https://github.com/davide-damico/ipmon/releases/latest) per scaricare l'ultima versione!
+[Clicca qui](https://github.com/davide-damico/ipmon/releases/latest) per scaricare l'ultima versione compilata!
 
 ## Author
 Davide D'Amico - Pescara (https://www.novasoftonline.net)
